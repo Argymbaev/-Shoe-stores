@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Air Jordan 1 Elevate Low",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/66f486ed-c4a5-47a2-a27f-d1768116f162/air-jordan-1-elevate-low-se-womens-shoes-Q630Pk.png",
+      "price": 135,
+      "gender": "Women's Shoes",
+      "description": "We say, Perfect it. This streetwear superstar gets revamped with jumbo-sized details. Harnessing the old-school look you love, the Nike Blazer Low '77 Jumbo features an oversized Swoosh design, extra-wide laces and thicker stitching. "
+    },
+    {
+      "id": 2,
+      "title": "Zoom Freak 4",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/81b8c9fb-1cff-43f0-bbfe-ed1970323f40/zoom-freak-4-basketball-shoes-dsLlqf.png",
+      "price": "180",
+      "gender": "Women's Shoes",
+      "description": "Lace up and feel the love in the Nike Air Max 97. Rippled design lines give this iconic sneaker fast-paced style. To ensure these kicks really turn heads, we mixed smooth leather with soft corduroy for a highly textured look. Or course, we kept the full-length Nike Air cushioning that electrified the running world when first introduced, letting you capture the spotlight in comfort."
+    },
+    {
+      "title": "Nike Offcourt Adjust",
+      "price": "105",
+      "gender": "Unisex Shoes",
+      "description": "Post game, errands and more—adjust your comfort on the go. The adjustable, padded strap lets you perfect your fit, while the lightweight foam midsole brings first-class comfort to your feet.",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d1d9f856-745f-463a-98ef-8e90bb83b0d0/offcourt-adjust-womens-slides-PLGCnm.png",
+      "id": 3
+    },
+    {
+      "title": "12345",
+      "price": "qwert",
+      "gender": "Women's Shoes",
+      "description": "qwer",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/99865daa-13b2-4486-a708-68aaefa5e405/blazer-low-77-jumbo-womens-shoes-PdFBP1.png",
+      "id": 4
+    }
+  ]
+}
